@@ -1,0 +1,28 @@
+body{
+	background: linear-gradient(70deg, blue, pink);
+}
+.one{
+	display: inline;
+	display: flex;	
+  	justify-content: center;
+  	padding: 200px;
+}
+button:hover {
+    background-color : red;
+}
+
+
+
+button {
+     width: 80px;
+     height: 80px;
+     margin: 10px;
+     border-radius:80px;
+}
+img {
+
+     width: 70px;
+     height: 70px;
+     border-radius:70px;
+
+}
